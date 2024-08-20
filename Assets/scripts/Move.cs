@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class Move : MonoBehaviour
 {
-
-    new Vector2 Input;
+    
+   Vector2 Input;
 
     // Start is called before the first frame update
     void Start()
